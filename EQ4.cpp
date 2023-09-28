@@ -2,8 +2,8 @@
 #include <vector>
 
 // Description:
-// The main function implements Algorithm T (lexicographic combinations) 
-// to generate all k-combinations from a set of J elements {1,...,J}. 
+// The main function implements Algorithm T (lexicographic combinations) from "The Art of Computer Programming"
+// by Donald Knuth [found in Volume 4A on page 359] to generate all k-combinations from a set of J elements {1,...,J}. 
 // The function then prints each combination.
 // Accepts:
 // int k: Represents the size of each combination.
